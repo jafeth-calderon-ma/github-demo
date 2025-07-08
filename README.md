@@ -2,4 +2,4 @@
 
 This is a demo.
 
-By Jafeth
+By Jafeth C.
